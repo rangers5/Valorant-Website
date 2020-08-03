@@ -13,7 +13,7 @@ const server = express();
 
 //Set up the routes for the server to use
 server.use('/api/v1/profile', require('./routes/getStats'));
-
+server.use('/', require('./routes/homepage'));
 //Start the server
 server.listen(port, () => {
    console.log(`Server running on port ${port}!!!`);

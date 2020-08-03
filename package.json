@@ -1,0 +1,19 @@
+{
+  "name": "csgo_website",
+  "version": "1.0.0",
+  "description": "Tells you your stats from csgo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangers5/CSGO-Website.git"
+  },
+  "author": "Mark Juenemann and Patrick Krawczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangers5/CSGO-Website/issues"
+  },
+  "homepage": "https://github.com/rangers5/CSGO-Website#readme"
+}
